@@ -6,7 +6,7 @@ This project aims to forecast Ghana's crude oil production and prices using time
 
 ## Data Source
 
-The project utilizes historical data on Ghana's oil production and prices. The dataset is assumed to be in CSV format and is loaded from Google Drive.  You can find similar datasets by searching for "Ghana oil production data" or "Ghana oil price data" online.
+The project utilizes historical data on Ghana's oil production and prices. The dataset is in CSV format and is loaded from Google Drive.  You can find similar datasets by searching for "Ghana oil production data" or "Ghana oil price data" online.
 
 ## Methodology
 
